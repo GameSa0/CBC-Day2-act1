@@ -1,0 +1,9 @@
+title= "WELCOME TO BOOTCAMP"
+escape_char= "New Line"
+firstname= "Cesar Ian"
+lastname= "Apatino"
+
+print ( title)
+print ("New\nLine")
+print(escape_char.upper())
+print (f"I am {name}{lastname}")
